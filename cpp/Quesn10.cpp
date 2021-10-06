@@ -35,7 +35,6 @@ void solve()
 {
     string s;
     getline(cin,s);
-    cout<<s<<endl;
     ll int lcount=0,dcount=0;
     ll int i;
     for(i=0;i<s.size();i++)
